@@ -1,0 +1,94 @@
+﻿Commodities/Industries,
+111CA,Name
+113FF,Farms
+211,"Forestry, fishing, and related activities"
+212,Oil and gas extraction
+213,"Mining, except oil and gas"
+22,Support activities for mining
+23,Utilities
+321,Construction
+327,Wood products
+331,Nonmetallic mineral products
+332,Primary metals
+333,Fabricated metal products
+334,Machinery
+335,Computer and electronic products
+3361MV,"Electrical equipment, appliances, and components"
+3364OT,"Motor vehicles, bodies and trailers, and parts"
+337,Other transportation equipment
+339,Furniture and related products
+311FT,Miscellaneous manufacturing
+313TT,Food and beverage and tobacco products
+315AL,Textile mills and textile product mills
+322,Apparel and leather and allied products
+323,Paper products
+324,Printing and related support activities
+325,Petroleum and coal products
+326,Chemical products
+42,Plastics and rubber products
+441,Wholesale trade
+445,Motor vehicle and parts dealers
+452,Food and beverage stores
+4A0,General merchandise stores
+481,Other retail
+482,Air transportation
+483,Rail transportation
+484,Water transportation
+485,Truck transportation
+486,Transit and ground passenger transportation
+487OS,Pipeline transportation
+493,Other transportation and support activities
+511,Warehousing and storage
+512,"Publishing industries, except internet (includes software)"
+513,Motion picture and sound recording industries
+514,Broadcasting and telecommunications
+521CI,"Data processing, internet publishing, and other information services"
+523,"Federal Reserve banks, credit intermediation, and related activities"
+524,"Securities, commodity contracts, and investments"
+525,Insurance carriers and related activities
+HS,"Funds, trusts, and other financial vehicles"
+ORE,Housing
+532RL,Other real estate
+5411,Rental and leasing services and lessors of intangible assets
+5415,Legal services
+5412OP,Computer systems design and related services
+55,"Miscellaneous professional, scientific, and technical services"
+561,Management of companies and enterprises
+562,Administrative and support services
+61,Waste management and remediation services
+621,Educational services
+622,Ambulatory health care services
+623,Hospitals
+624,Nursing and residential care facilities
+711AS,Social assistance
+713,"Performing arts, spectator sports, museums, and related activities"
+721,"Amusements, gambling, and recreation industries"
+722,Accommodation
+81,Food services and drinking places
+GFGD,"Other services, except government"
+GFGN,Federal general government (defense)
+GFE,Federal general government (nondefense)
+GSLG,Federal government enterprises
+GSLE,State and local general government
+T001,State and local government enterprises
+F010,Total Intermediate
+F02E,Personal consumption expenditures
+F02N,Nonresidential private fixed investment in equipment
+F02R,Nonresidential private fixed investment in intellectual property products
+F02S,Residential private fixed investment
+F030,Nonresidential private fixed investment in structures
+F040,Change in private inventories
+F06C,Exports of goods and services
+F06E,National defense: Consumption expenditures
+F06N,Federal national defense: Gross investment in equipment
+F06S,Federal national defense: Gross investment in intellectual property products
+F07C,Federal national defense: Gross investment in structures
+F07E,Nondefense: Consumption expenditures
+F07N,Federal nondefense: Gross investment in equipment
+F07S,Federal nondefense: Gross investment in intellectual property products
+F10C,Federal nondefense: Gross investment in structures
+F10E,State and local government consumption expenditures
+F10N,State and local: Gross investment in equipment
+F10S,State and local: Gross investment in intellectual property products
+T019,State and local: Gross investment in structures
+,Total use of products
