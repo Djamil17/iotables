@@ -1,2 +1,2 @@
-# iotables
-data mungling and processing code for rdbms of BES io data
+# Input-output matrices, alogirithms, and measuring labor-content 
+
