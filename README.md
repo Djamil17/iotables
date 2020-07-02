@@ -1,2 +1,2 @@
-# Input-output matrices, alogirithms, and measuring labor-content 
+# Input-output matrices, Algorithms, and Measuring Labor-Content 
 
