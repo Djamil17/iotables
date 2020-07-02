@@ -11,7 +11,7 @@ The LTV predicts that the prices of commodities vary proportionally with their l
 
 Two major propositions to test the LTV: 
 
-- 1.Commodity prices vary proportionally with their labor-content
+- 1. Commodity prices vary proportionally with their labor-content
 - 2. Profit varies proportionally with surplus labor-content
 
 The first can be construed as : 
