@@ -11,13 +11,13 @@ The LTV predicts that the prices of commodities vary proportionally with their l
 
 Two major propositions to test the LTV: 
 
-1. Commodity prices vary proportionally with their labor-content
-2. Profit varies proportionally with surplus labor-content
+-1. Commodity prices vary proportionally with their labor-content
+-2. Profit varies proportionally with surplus labor-content
 
 The first can be construed as : 
 
-1.1 For a "large enough" set of commodities, the market price of a commodity, will be positively correlated to labor-content. 
-1.2 For a "large enough" set of commodities, the labor-content vector will be a efficient predictor, or attractor of market price. 
+-1.1 For a "large enough" set of commodities, the market price of a commodity, will be positively correlated to labor-content.
+-1.2 For a "large enough" set of commodities, the labor-content vector will be a efficient predictor, or attractor of market price. 
 
 The second can be :
 
