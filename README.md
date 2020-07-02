@@ -1,7 +1,7 @@
 
 ![cartoon](https://cosmonaut.blog/wp-content/uploads/2019/04/1_84gwuVnrs6wdiu8yL_o5UA.jpeg)
 
-# Input-output Matrices, Algorithms, and Measuring Labor-Content 
+# Input-Output Matrices, Algorithms, and Measuring Labor-Content 
 
 The epistemological and scientific foundation of classical political economy was the “labor theory of value” (LTV). Perhaps a more fitting description is the “labor law of value.”
 
